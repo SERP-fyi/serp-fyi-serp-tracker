@@ -1,0 +1,20 @@
+{
+  "name": "serp-fyi-serp-tracker",
+  "version": "1.0.0",
+  "description": "SERP & AI Visibility Tracker — Monitor keyword rankings and AI Overview exposure. Built by serp.fyi",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc"
+  },
+  "keywords": ["serp", "seo", "ai-visibility", "geo", "orm", "aivo", "perplexity", "google-ai"],
+  "author": "serp.fyi",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0",
+    "ts-node": "^10.9.0"
+  }
+}
