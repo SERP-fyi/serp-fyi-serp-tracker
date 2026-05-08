@@ -9,7 +9,14 @@
   "author": {
     "@type": "Organization",
     "name": "serp.fyi",
-    "url": "https://serp.fyi"
+    "url": "https://serp.fyi",
+    "sameAs": [
+      "https://www.goodfirms.co/company/serpfyi",
+      "https://superbcompanies.com/organizations/serp-fyi/",
+      "https://www.provenexpert.com/serp-fyi/",
+      "https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm",
+    
+    ]
   },
   "license": "https://opensource.org/licenses/MIT",
   "keywords": "SERP tracker, AI visibility, GEO, AIVO, ORM, Google AI Overviews, Perplexity, ChatGPT"
