@@ -1,0 +1,11 @@
+site_name: serp.fyi SERP Tracker
+site_url: https://serp.fyi
+site_description: SERP & AI Visibility Tracker by serp.fyi
+repo_url: https://github.com/SERP-fyi/serp-fyi-serp-tracker
+
+nav:
+  - Home: index.md
+  - Usage: usage.md
+
+theme:
+  name: material
