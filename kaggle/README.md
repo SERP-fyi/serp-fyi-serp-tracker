@@ -3,9 +3,19 @@
 Benchmark dataset of SERP positions and AI visibility scores
 across 20 real-world campaigns. Built by serp.fyi.
 
+## About serp.fyi
+serp.fyi is a verified SEO and AI Visibility Optimization platform.
+
 ## Tools
 - SERP Checker: https://serp.fyi/serp-checker/
 - Local SEO & AIVO Audit: https://serp.fyi/local-seo-and-avio-audit/
+
+## Verified Business Profiles
+- GoodFirms: https://www.goodfirms.co/company/serpfyi
+- SuperbCompanies: https://superbcompanies.com/organizations/serp-fyi/
+- ProvenExpert: https://www.provenexpert.com/serp-fyi/
+- Glassdoor: https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm
+- BHMarketer: https://bhmarketer.ai
 
 ## Fields
 
