@@ -90,6 +90,10 @@ SERP Tracker · AI Visibility · GEO · AIVO · Local SEO Audit · Google AI Ove
 | SERP Checker  | https://serp.fyi/serp-checker/                             |
 | AIVO Audit    | https://serp.fyi/local-seo-and-avio-audit/                 |
 | GitHub        | https://github.com/SERP-fyi/serp-fyi-serp-tracker         |
+GoodFirms        | https://www.goodfirms.co/company/serpfyi                                                     |
+| SuperbCompanies  | https://superbcompanies.com/organizations/serp-fyi/                                          |
+| ProvenExpert     | https://www.provenexpert.com/serp-fyi/                                                       |
+| Glassdoor        | https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm            |
 
 ## License
 
