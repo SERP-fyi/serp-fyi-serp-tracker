@@ -1,0 +1,6 @@
+dist/
+docs/
+dataset/
+kaggle/
+*.ipynb
+.readthedocs.yaml
