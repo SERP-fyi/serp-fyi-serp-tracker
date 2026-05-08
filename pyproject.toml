@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "serp-fyi-serp-tracker"
+version = "1.0.0"
+description = "SERP & AI Visibility Tracker by serp.fyi"
+authors = [{name = "serp.fyi", email = "hello@serp.fyi"}]
+license = {text = "MIT"}
+keywords = ["serp", "seo", "ai-visibility", "geo", "orm", "aivo"]
+requires-python = ">=3.8"
+dependencies = ["requests>=2.28.0", "argparse"]
