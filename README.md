@@ -122,7 +122,7 @@ SERP Tracker · AI Visibility · AIVO · GEO · AI SEO · SERP Checker · AI Ove
 | ProvenExpert      | https://www.provenexpert.com/serp-fyi/                                                |
 | Glassdoor         | https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm     |
 | Kaggle            | https://www.kaggle.com/serpfyi                                                        |
-| Hugging Face      | https://huggingface.co/serp-fyi                                                       |
+| Hugging Face      |https://huggingface.co/datasets/serp-fyi/serp-fyi-tools-directory                                     |
 
 
 ## License
