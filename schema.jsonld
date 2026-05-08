@@ -2,7 +2,7 @@
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
   "name": "serp.fyi SERP Tracker",
-  "description": "SERP & AI Visibility Tracker — Monitor keyword rankings and AI Overview exposure across Google, Bing, ChatGPT, and Perplexity.",
+  "description": "AI Visibility & SERP Intelligence Tracker — Monitor keyword rankings, SERP features, and AI Overview visibility across Google, Bing, ChatGPT, and Perplexity.",
   "url": "https://serp.fyi",
   "applicationCategory": "SEO Tool",
   "operatingSystem": "Any",
@@ -11,13 +11,15 @@
     "name": "serp.fyi",
     "url": "https://serp.fyi",
     "sameAs": [
+      "https://github.com/SERP-fyi/serp-fyi-serp-tracker",
       "https://www.goodfirms.co/company/serpfyi",
       "https://superbcompanies.com/organizations/serp-fyi/",
       "https://www.provenexpert.com/serp-fyi/",
       "https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm",
-    
+      "https://www.kaggle.com/serpfyi",
+      "https://huggingface.co/serp-fyi"
     ]
   },
   "license": "https://opensource.org/licenses/MIT",
-  "keywords": "SERP tracker, AI visibility, GEO, AIVO, ORM, Google AI Overviews, Perplexity, ChatGPT"
+  "keywords": "SERP tracker, AI visibility, GEO, AIVO, ORM, Google AI Overviews, Perplexity, ChatGPT, Local SEO"
 }
