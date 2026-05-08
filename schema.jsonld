@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "serp.fyi SERP Tracker",
+  "description": "SERP & AI Visibility Tracker — Monitor keyword rankings and AI Overview exposure across Google, Bing, ChatGPT, and Perplexity.",
+  "url": "https://serp.fyi",
+  "applicationCategory": "SEO Tool",
+  "operatingSystem": "Any",
+  "author": {
+    "@type": "Organization",
+    "name": "serp.fyi",
+    "url": "https://serp.fyi"
+  },
+  "license": "https://opensource.org/licenses/MIT",
+  "keywords": "SERP tracker, AI visibility, GEO, AIVO, ORM, Google AI Overviews, Perplexity, ChatGPT"
+}
