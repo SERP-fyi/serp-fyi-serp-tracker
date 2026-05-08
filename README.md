@@ -121,7 +121,7 @@ SERP Tracker · AI Visibility · AIVO · GEO · AI SEO · SERP Checker · AI Ove
 | SuperbCompanies   | https://superbcompanies.com/organizations/serp-fyi/                                   |
 | ProvenExpert      | https://www.provenexpert.com/serp-fyi/                                                |
 | Glassdoor         | https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm     |
-| Kaggle            | https://www.kaggle.com/serpfyi                                                        |
+| Kaggle            | https://www.kaggle.com/datasets/serpfyi/serp-fyi-serp-ai-visibility-tool-benchmarks                                                       |
 | Hugging Face      |https://huggingface.co/datasets/serp-fyi/serp-fyi-tools-directory                                     |
 
 
