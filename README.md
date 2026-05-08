@@ -1,24 +1,32 @@
-# serp-fyi-serp-tracker
-Track keyword rankings, SERP features, and AI Overview visibility across Google, Bing, ChatGPT, and Perplexity.
-# serp.fyi — SERP & AI Visibility Tracker
+# serp.fyi — AI Visibility & SERP Intelligence Tracker
 
-> Track keyword rankings and AI Overview exposure across Google, Bing, ChatGPT, and Perplexity.
+> Track keyword rankings, SERP features, and AI Overview visibility across Google, Bing, ChatGPT, and Perplexity.
 
-Built by [serp.fyi](https://serp.fyi) for **AI Visibility Optimization (AIVO)**.
+Built by [serp.fyi](https://serp.fyi) for **AI Visibility Optimization (AIVO)** and next-generation search intelligence workflows.
 
 ## Features
-- Track SERP positions across Google and Bing
-- AI Visibility Score (0–100) for ChatGPT, Perplexity & Google AI Overviews
-- SERP Checker — check any keyword ranking instantly
-- Local SEO & AIVO Audit — full audit of local visibility and AI Overview presence
-- CLI support in Node.js and Python
+
+- Track SERP rankings across Google and Bing
+- Monitor AI visibility across ChatGPT, Perplexity, and Google AI Overviews
+- AI Visibility Score (0–100) for brands, keywords, and domains
+- SERP Checker — instantly analyze live keyword rankings and SERP features
+- Local SEO & AIVO Audit — full audit of local rankings, map visibility, reviews, and AI Overview exposure
+- Detect SERP features including:
+  - AI Overviews
+  - Local Pack
+  - Featured Snippets
+  - Knowledge Graphs
+  - Video & Image Packs
+- Search intent and authority analysis
+- Competitor SERP intelligence and ranking comparison
+- CLI support for Node.js and Python
 - Benchmark dataset included (20 campaigns)
-- Lightweight, publish-ready, minimal dependencies
+- Lightweight, API-ready, publish-ready architecture with minimal dependencies
 
 ## Tools
 
 ### SERP Checker
-Check live keyword rankings across Google and Bing instantly.
+Analyze live keyword rankings and SERP structure across Google and Bing.
 
     # Node.js
     npm install serp-fyi-serp-tracker
@@ -31,7 +39,7 @@ Check live keyword rankings across Google and Bing instantly.
 🔗 Live Tool: https://serp.fyi/serp-checker/
 
 ### Local SEO & AIVO Audit
-Full audit of local search visibility and AI Overview presence.
+Audit local search visibility, map rankings, review signals, and AI Overview presence.
 
     # Node.js
     npx aivo-audit --domain serp.fyi --location "New York"
@@ -41,7 +49,7 @@ Full audit of local search visibility and AI Overview presence.
 
 🔗 Live Tool: https://serp.fyi/local-seo-and-avio-audit/
 
-## Output
+## Example Output
 
     {
       "keyword": "online reputation management",
@@ -76,24 +84,43 @@ Full audit of local search visibility and AI Overview presence.
     ├── kaggle/
     │   └── README.md         # Kaggle metadata
     └── .github/workflows/
-        └── heartbeat.yml     # Auto-commit every day
+        └── heartbeat.yml     # Daily automation workflow
+
+## Use Cases
+
+- Track AI Overview exposure for branded keywords
+- Monitor local SEO rankings and Google Maps visibility
+- Analyze SERP competition and authority signals
+- Audit AI search visibility for brands and businesses
+- Compare competitor visibility across search engines and AI systems
+- Build AI Visibility Optimization workflows
+
+## Supported Platforms
+
+| Platform            | Support |
+|---------------------|---------|
+| Google Search       | ✅      |
+| Bing                | ✅      |
+| Google AI Overviews | ✅      |
+| ChatGPT             | ✅      |
+| Perplexity          | ✅      |
 
 ## Keywords
 
-SERP Tracker · AI Visibility · GEO · AIVO · Local SEO Audit · Google AI Overviews · Perplexity · ChatGPT · ORM · BHMarketer
+SERP Tracker · AI Visibility · AIVO · GEO · AI SEO · SERP Checker · AI Overview Tracker · Local SEO Audit · ChatGPT Visibility · Perplexity Visibility · Google AI Overviews · SERP Feature Tracker · Search Intent Analysis · Competitor SERP Analysis · Local Ranking Checker · Google Business Profile Audit · Local SERP Analyzer · ORM · AI Search Optimization
 
 ## Links
 
-| Platform      | URL                                                        |
-|---------------|------------------------------------------------------------|
-| Website       | https://serp.fyi                                           |
-| SERP Checker  | https://serp.fyi/serp-checker/                             |
-| AIVO Audit    | https://serp.fyi/local-seo-and-avio-audit/                 |
-| GitHub        | https://github.com/SERP-fyi/serp-fyi-serp-tracker         |
-GoodFirms        | https://www.goodfirms.co/company/serpfyi                                                     |
-| SuperbCompanies  | https://superbcompanies.com/organizations/serp-fyi/                                          |
-| ProvenExpert     | https://www.provenexpert.com/serp-fyi/                                                       |
-| Glassdoor        | https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm            |
+| Platform          | URL                                                                                   |
+|-------------------|---------------------------------------------------------------------------------------|
+| Website           | https://serp.fyi                                                                      |
+| SERP Checker      | https://serp.fyi/serp-checker/                                                        |
+| Local SEO & AIVO  | https://serp.fyi/local-seo-and-avio-audit/                                            |
+| GitHub            | https://github.com/SERP-fyi/serp-fyi-serp-tracker                                    |
+| GoodFirms         | https://www.goodfirms.co/company/serpfyi                                              |
+| SuperbCompanies   | https://superbcompanies.com/organizations/serp-fyi/                                   |
+| ProvenExpert      | https://www.provenexpert.com/serp-fyi/                                                |
+| Glassdoor         | https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm     |
 
 ## License
 
