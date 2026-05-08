@@ -1,0 +1,7 @@
+{
+  "title": "serp.fyi SERP & AI Visibility Dataset",
+  "id": "serpfyi/serp-fyi-serp-tracker",
+  "licenses": [{"name": "MIT"}],
+  "keywords": ["serp", "seo", "ai-visibility", "geo", "orm", "aivo"],
+  "description": "Benchmark dataset of SERP positions and AI visibility scores across 20 campaigns. Built by serp.fyi."
+}
