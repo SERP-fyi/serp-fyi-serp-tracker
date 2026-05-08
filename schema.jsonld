@@ -1,11 +1,35 @@
 {
   "@context": "https://schema.org",
   "@type": "SoftwareApplication",
-  "name": "serp.fyi SERP Tracker",
+  "name": "serp.fyi SERP & AI Visibility Tracker",
   "description": "AI Visibility & SERP Intelligence Tracker — Monitor keyword rankings, SERP features, and AI Overview visibility across Google, Bing, ChatGPT, and Perplexity.",
   "url": "https://serp.fyi",
   "applicationCategory": "SEO Tool",
   "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock"
+  },
+  "featureList": [
+    "SERP Check Tool",
+    "AI Visibility Audit",
+    "Local SEO Audit",
+    "Technical SEO Audit",
+    "Competitor SERP Analysis",
+    "Keyword Ranking Tracker",
+    "SERP Simulator",
+    "AI Search Grader",
+    "Location Based SERP Checker",
+    "SEO Audit Reports",
+    "Brand SERP Audit Dashboard",
+    "AI Search Visibility Score",
+    "Local Ranking Heatmap",
+    "On Page SEO Analyzer",
+    "Backlink Overview Tool",
+    "Competitor Gap Analysis"
+  ],
   "author": {
     "@type": "Organization",
     "name": "serp.fyi",
@@ -17,9 +41,9 @@
       "https://www.provenexpert.com/serp-fyi/",
       "https://www.glassdoor.co.in/Overview/Working-at-SERP-fyi-EI_IE11124673.11,19.htm",
       "https://www.kaggle.com/serpfyi",
-      "https://huggingface.co/serp-fyi"
+      "https://huggingface.co/datasets/serp-fyi/serp-fyi-tools-directory"
     ]
   },
   "license": "https://opensource.org/licenses/MIT",
-  "keywords": "SERP tracker, AI visibility, GEO, AIVO, ORM, Google AI Overviews, Perplexity, ChatGPT, Local SEO"
+  "keywords": "SERP tracker, AI visibility, AIVO, GEO, ORM, Google AI Overviews, Perplexity, ChatGPT, Local SEO, Technical SEO, Competitor Analysis"
 }
